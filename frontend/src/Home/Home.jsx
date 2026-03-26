@@ -36,7 +36,7 @@ function Home() {
       <p><b>Phone:</b> {student.phone}</p>
 
       <hr />
-
+      
       <h3>Education</h3>
       <p>{student.education}</p>
 
